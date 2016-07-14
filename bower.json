@@ -6,5 +6,8 @@
     "Dahmane Aissi <aissi@allegorie.tv>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/dahmaneaissi/laracroft"
+  "homepage": "https://github.com/dahmaneaissi/laracroft",
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.5"
+  }
 }
